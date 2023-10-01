@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int num1, num2, middle_value;
+int num1, num2;
+float  middle_value;
 
 int main()
 {
