@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int num1, num2;
+float num1, num2;
 float  middle_value;
 
 int main()
