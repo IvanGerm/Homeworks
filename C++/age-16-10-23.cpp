@@ -8,7 +8,7 @@ int main()
 	cout<<"Введите возраст Коли и Миши: "<<endl;
 	cin>>ageK>>ageM;
 	m_v = (ageK + ageM)/2;
-	cout<<"Их средний возраст: "<<m_v<<endl;
+}	cout<<"Их средний возраст: "<<m_v<<endl;
 	tmp = m_v;
 	m_v -= ageK;
 	cout<<"Возраст Коли отличается от среднего на "<<m_v<<endl;
@@ -17,4 +17,3 @@ int main()
 	cout<<"Возраст Миши отличается от среднего на "<<m_v<<endl;
 
 	return 0;
-}
